@@ -1,0 +1,15 @@
+[submodule "binutils-vc4"]
+	path = binutils-vc4
+	url = https://github.com/puppeh/binutils-vc4.git
+[submodule "gcc-vc4"]
+	path = gcc-vc4
+	url = https://github.com/puppeh/gcc-vc4.git
+[submodule "newlib"]
+	path = newlib
+	url = https://github.com/puppeh/newlib-vc4.git
+[submodule "resim"]
+	path = resim
+	url = https://github.com/puppeh/resim.git
+[submodule "cgen"]
+	path = cgen
+	url = https://github.com/puppeh/cgen.git
